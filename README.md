@@ -19,10 +19,10 @@ I specialize in **testing, validating, and analyzing real-world systems**, inclu
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Java, C#, TypeScript, JavaScript  
+Java, Python, C#, TypeScript, JavaScript  
 
 **Backend:**  
-Spring Boot, .NET Core, REST API Design  
+Spring Boot, Fast API, .NET Core, REST API Design  
 
 **Frontend:**  
 Angular  
