@@ -1,100 +1,51 @@
 # Hi, I'm Carlos De Los Santos 👋
 
-💻 Software Engineer with 3+ years of experience in backend and full-stack development, with a strong focus on **quality engineering, system reliability, and performance optimization**.
+**Software Engineer | Full-Stack Development | TypeScript · React · NestJS · Spring Boot · .NET**
 
-I specialize in **testing, validating, and analyzing real-world systems**, including high-load APIs, distributed workflows, and non-deterministic behaviors.
+I'm a Software Engineering graduate based in the Dominican Republic. I build full-stack applications and backend services, with experience developing REST APIs, integrating authentication, modeling data, and improving application performance.
 
----
+I enjoy turning real-world requirements into maintainable software—from user interfaces to databases and deployment.
 
-## 🧠 What I Do
+## 🛠️ Tech stack
 
-- 🔍 Test and validate backend systems and APIs under real-world conditions  
-- 🧪 Design test cases and identify edge cases in complex workflows  
-- ⚙️ Analyze system performance and optimize bottlenecks  
-- 🐞 Debug and track issues across distributed systems  
-- 🤖 Explore evaluation of AI systems (consistency, robustness, non-deterministic outputs)
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Java, C#, Python |
+| Frontend | React, Angular, Bootstrap |
+| Backend | Node.js, NestJS, Spring Boot, ASP.NET Core, REST APIs |
+| Databases | MySQL, PostgreSQL, SQL Server, MongoDB |
+| Cloud & tooling | AWS, Docker, Git |
+| Engineering | API design, authentication, authorization, debugging, performance optimization, testing |
 
----
+## 🚀 Featured projects
 
-## 🛠️ Tech Stack
+### [SIVEX — React frontend](https://github.com/CarlosA21/SIVEXFRONTEND) · [NestJS backend](https://github.com/CarlosA21/SIVEXBACKEND)
+An institutional project and volunteer management system with role-oriented workflows for administrators, coordinators, facilitators, and volunteers.
 
-**Languages:**  
-Java, Python, C#, TypeScript, JavaScript  
+- **Frontend:** React 19, TypeScript, Vite, React Router, Axios, and dashboards.
+- **Backend:** NestJS, TypeScript, TypeORM, and MySQL.
+- **Features:** project management, enrollment requests, evidence uploads, reporting, authentication, and user roles.
 
-**Backend:**  
-Spring Boot, Fast API, .NET Core, REST API Design  
+### [Bulk SMS Platform — API](https://github.com/CarlosA21/bulksmsAPI) · [Frontend](https://github.com/CarlosA21/Bulksms-Front)
+A messaging platform built with Spring Boot, Angular, MySQL, Docker, and AWS, with REST APIs, access control, and messaging workflows.
 
-**Frontend:**  
-Angular  
+### [Rama Femenina — Management System](https://github.com/CarlosA21/RamaFemenina)
+A desktop application based on .NET 8, WinUI 3, Entity Framework Core, and SQL Server for administrative operations and reporting.
 
-**Databases:**  
-MySQL, PostgreSQL, SQL Server, MongoDB  
+### [E-commerce API](https://github.com/CarlosA21/EcommerceApi)
+An ASP.NET Core API project illustrating layered organization, data models, controllers, and middleware.
 
-**Cloud & DevOps:**  
-Docker, AWS  
+## 🔎 How I approach engineering
 
-**Testing & QA:**  
-Manual Testing, Test Case Design, Bug Tracking, Performance Testing, API Testing  
-
----
-
-## 🧪 QA & Evaluation Focus
-
-- Edge case analysis and system validation  
-- Testing under high load and concurrent users  
-- Validation of API responses and workflows  
-- Debugging inconsistencies in complex systems  
-- Evaluation of non-deterministic behavior (AI-oriented mindset)  
-
----
-
-## 🚀 Highlight Projects
-
-### 📩 Bulk SMS Platform
-- Built with Spring Boot, Angular, AWS, Docker  
-- Designed and tested high-volume messaging workflows  
-- Validated message delivery and system behavior under load  
-- Identified edge cases and improved system reliability  
-
----
-
-### 🏥 Patient Management System
-- .NET 8, WinUI 3, SQL Server  
-- Developed and validated workflows for patient and financial data  
-- Ensured data integrity and system stability after migration  
-- Optimized performance and reduced startup time by 75%  
-
----
-
-## 📈 Experience Highlights
-
-- Improved system performance by up to **80%** through optimization and refactoring  
-- Reduced startup time by **75%** in legacy system modernization  
-- Validated and tested production-grade APIs handling high-volume workflows  
-- Debugged and analyzed systems under unpredictable and edge-case inputs  
-
----
-
-## 🧠 Problem Solving
-
-- ICPC Latin America Regional Contest Participant  
-- Ranked **#22 in Latin America**  
-
----
-
-## 🎯 Current Focus
-
-- AI QA & Evaluation Engineering  
-- Testing non-deterministic systems (LLMs, AI-driven apps)  
-- Backend reliability and system validation  
-
----
+- Build complete user-facing features backed by maintainable services.
+- Consider security and performance when choosing implementation trade-offs.
+- Improve existing applications through debugging, refactoring, and testing.
+- Keep learning and collaborating across the stack.
 
 ## 📫 Contact
 
-📍 Dominican Republic  
-📧 carlosariel58@gmail.com  
+- **GitHub:** [@CarlosA21](https://github.com/CarlosA21)
+- **Email:** carlosariel58@gmail.com
+- **Location:** Dominican Republic
 
----
-
-⭐ Always interested in building, testing, and improving systems that work reliably at scale.
+Open to early-career software engineering opportunities.
